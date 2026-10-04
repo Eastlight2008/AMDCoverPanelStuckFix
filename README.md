@@ -1,0 +1,2 @@
+# AMDCoverPanelStuckFix
+修复A卡游戏内覆盖可能只显示顶栏主体无调节内容的bug
