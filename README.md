@@ -39,13 +39,10 @@ Mitigation discussed here: raise `UnloadDelay` / `MemorySizeTreshold` so the pan
 | 主板 / BIOS | ASUS TUF GAMING B650M-PLUS / 3881 |
 | 独显 | AMD Radeon RX 7900 XT（Navi 31，`744C`），驱动 `32.0.31041.1004` |
 | 核显 | AMD Radeon Graphics（Raphael，`164E`），驱动 `32.0.21045.5002` |
-| 第三块适配器 | 第三方虚拟显示适配器（GameViewer `15.6.5.199`） |
 | 系统 | Windows 11 26H2，Build `26300.9550` |
 | AMD Software | `CNVersion 26.10.41.01`（对外版本号 26.8.1，Adrenalin），包日期 2026-08-11 |
 | 面板主程序 | `RadeonSoftware.exe` 文件版本 `10.01.02.2099`，29,067,528 字节 |
 | UI 框架 | **Qt 6.9.0** + Qt Quick(QML) + QtWebEngine |
-
-> 注：注册表 `ProductName` 显示为 "Windows 10 Pro for Workstations" 而 `CurrentBuild=26300`，这是 Win11 上常见的注册表遗留字段，不影响结论。
 
 ---
 
